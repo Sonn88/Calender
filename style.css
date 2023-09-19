@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+.box-one { background-color: antiquewhite ;
+    border: solid rosybrown; border-width: 20px 15px 20px 15px ;
+    padding: 20px 25px 20px 25px; margin: 20px; height: 200px; width: 400px;
+}
+.box-two {background-color: indianred ; padding: 30px 25px 30px 25px ; border: solid darkorange;
+    border-width: 20px 15px 20px 15px;
+    margin: 20px 30px 20px 30px ;height: 25%; width: 65%;
+}
+.H1{
+width:100%;
+    text-align:center;
+}
+.Table{
+width: 100%;
+}
+.weekend{ background-color: rosybrown;}
+td{ border:2px solid black;
+font-weight: bold;
+font-size: 24px;
+    padding-bottom: 32px;
+}
+th{ border: 3px solid black; padding: 8px 0; font-size: 30px;
+ background-color: wheat;}
+td,th{ width:14.27%;
+}
+.vacation{background-color: bisque;  ;}
+.school{background-color:gold;}
+.tschool{ background-color: silver;}
+.ol{ background-color:cornflowerblue }
+.ool{background-color:lavenderblush }
+.weekennd{ background-color: lightcoral}
